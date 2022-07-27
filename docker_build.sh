@@ -1,5 +1,5 @@
 #! /bin/sh
 
-app_name=node-app
-vers=0.1
-docker build -t $app_name:$vers .
+img_name=node-app
+img_vers=0.1
+docker build -t $img_name:$img_vers .

@@ -10,3 +10,5 @@ docker run \
     --name $app_name \
     -d \
     $img_name:$img_vers
+
+curl http://localhost:$local_port

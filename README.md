@@ -8,3 +8,4 @@ Create docker image and push to Google Conteiner Registry
 * Build Docker image;
 * Optional: Run image to test;
 * Push image to GCR;
+* Optional: Clean up local images
